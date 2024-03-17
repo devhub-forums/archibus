@@ -20,7 +20,7 @@ gem 'http-accept', '1.7.0', { require: false }
 gem 'rest-client', '2.1.0.rc1'
 
 gem 'discordrb', '3.5.0'
-gem 'discordrb-webhooks', '3.5.0', { require: false }
+gem 'discordrb-webhooks', '3.3.0', { require: false }
 
 enabled_site_setting :archibus_enabled
 
