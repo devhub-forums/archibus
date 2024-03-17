@@ -1,7 +1,7 @@
 # name: archibus
 # about: Simple discord bot to send notifications to our server.
 # authors: TheRealToxicDev
-# version: 0.0.1
+# version: 0.0.2
 # url: https://github.com/devhub-forums/archibus
 
 libdir = File.join(File.dirname(__FILE__), 'vendor/discordrb/lib')
