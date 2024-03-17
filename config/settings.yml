@@ -1,0 +1,37 @@
+plugins:
+  archibus_enabled:
+     default: true
+     client: false
+   archibus_token:
+     default: ''
+     client: false
+  archibus_admin_channel_id:
+     default: ''
+     client: false
+  archibus_admin_role_id:
+     default: ''
+     client: false
+  archibus_announcement_channel_id:
+     default: ''
+     client: false
+  archibus_announcement_topic_id:
+     default: ''
+     client: false
+  archibus_post_announcement_categories:
+     default: ''
+     client: false
+     type: category_list
+  archibus_topic_announcement_categories:
+     default: ''
+     client: false
+     type: category_list
+  archibus_auto_channel_sync:
+     default: ''
+     client: false
+  archibus_rate_limit_delay:
+     default: ''
+     client: false
+  archibus:
+     discord_events:
+        auto_message_copy:
+             default_topic_title: "Discord #%{channel_name} messages"

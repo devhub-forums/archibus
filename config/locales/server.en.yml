@@ -1,0 +1,11 @@
+en:
+   site_settings:
+      archibus_enabled: "Enable the archibus plugin (why would you disable it though?)"
+      archibus_admin_channel_id: "The discord channel id for admin announcements."
+      archibus_admin_role_id: "The discord role id for our administrators."
+      archibus_announcement_channel_id: "The discord channel id for forum announcements."
+      arachibus_announcement_topic_id: "The forum topic id for announcements and updates."
+      archibus_post_announcement_categories: "The categories to post announcements in."
+      archibus_topic_announcement_categories: "The categories to post topics announcements in."
+      archibus_auto_channel_sync: "Automatically sync discord channels with forum categories."
+      archibus_rate_limit_delay: "The delay between sending messages to discord (in seconds)."
